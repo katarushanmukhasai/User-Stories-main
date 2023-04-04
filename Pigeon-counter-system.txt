@@ -1,0 +1,30 @@
+User Stories:
+
+As a customer, I want to be able to track my package and get real-time updates on its location and estimated delivery time.
+As a customer, I want to be able to schedule a pickup for my package at a convenient time and location.
+As a customer, I want to be able to view and compare different shipping options and their corresponding costs.
+As a PCS employee, I want to be able to easily input and manage shipment information, including weight, destination, and shipping method.
+As a PCS employee, I want to be able to generate accurate and timely invoices for customers based on their shipment details.
+As a PCS manager, I want to be able to view and analyze key performance indicators, such as on-time delivery rates and shipment volume, to make informed business decisions.
+As a PCS employee, I want to be able to easily communicate with customers and provide support throughout the shipment process.
+
+
+
+Issues:
+
+Ensuring accurate and timely tracking and delivery of packages across various modes of transportation.
+Maintaining security and safety of packages, especially when transporting live animals.
+Adapting to changing regulations and policies in different countries and ensuring compliance.
+Managing inventory and logistics, including vehicle and warehouse management.
+Ensuring efficient and effective communication between PCS employees and customers.
+
+
+
+Milestones:
+
+Development of a user-friendly and efficient software system for managing shipments and tracking packages.
+Implementation of a secure and reliable billing system that accurately calculates shipping costs.
+Integration of real-time tracking and notification systems to keep customers informed of their shipment's progress.
+Creation of a customer service platform to support and assist customers throughout the shipment process.
+Launch of the new PCS software platform in select countries and monitoring of its effectiveness.
+Expansion of the PCS software platform to additional countries and implementation of any necessary modifications to meet local regulations and requirements.

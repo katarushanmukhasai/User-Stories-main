@@ -1,0 +1,29 @@
+User Stories:
+
+As a citizen of Andhra Pradesh, I want to be able to apply for a new license online, so that I don't have to physically visit the RTO office.
+As a citizen of Andhra Pradesh, I want to be able to renew my license online, so that I don't have to physically visit the RTO office.
+As a citizen of Andhra Pradesh, I want to be able to register my new vehicle online, so that I don't have to physically visit the RTO office.
+As a citizen of Andhra Pradesh, I want to be able to transfer the ownership of my vehicle online, so that I don't have to physically visit the RTO office.
+As a citizen of Andhra Pradesh, I want to be able to apply for a contract permit for my transport vehicle online, so that I don't have to physically visit the RTO office.
+As a citizen of Andhra Pradesh, I want to be able to apply for an educational institution permit for my vehicle online, so that I don't have to physically visit the RTO office.
+
+
+
+Issues:
+
+Lack of awareness among citizens about the online services provided by the Transport Department.
+Technical glitches in the online portal leading to inconvenience to citizens.
+Difficulty in verifying the authenticity of the documents uploaded online.
+Lack of proper communication channels between the RTOs and the citizens.
+Resistance to change from the existing manual processes to the online processes.
+
+
+
+Milestones:
+
+Develop an online portal for citizens to apply for new licenses, renewal of licenses, vehicle registration, change of ownership, contract permits, and educational institution permits.
+Introduce awareness campaigns to inform citizens about the online services provided by the Transport Department.
+Conduct rigorous testing of the online portal to ensure that it is user-friendly and free of technical glitches.
+Implement a robust verification system to ensure the authenticity of the documents uploaded online.
+Train RTO employees to effectively communicate with citizens and guide them through the online processes.
+Gradually phase out the manual processes and encourage citizens to use the online portal for all their transport-related needs.

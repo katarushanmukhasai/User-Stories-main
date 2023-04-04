@@ -1,0 +1,37 @@
+User Stories:
+
+As a user, I want to be able to open a DMAT account and link it to my SB account, so that I can buy and sell shares online.
+As a user, I want to be able to view my shares portfolio in my DMAT account, so that I can track my investments.
+As a user, I want to be able to search for stocks in the stock market and view their current market price, so that I can decide which stocks to buy.
+As a user, I want to be able to place a buy order for a specific quantity of shares at market price, so that I can purchase shares instantly.
+As a user, I want to be able to place a buy order for a specific quantity of shares at a limit price, so that I can purchase shares at a desired price point.
+As a user, I want to be able to place a sell order for a specific quantity of shares at market price, so that I can sell shares instantly.
+As a user, I want to be able to place a sell order for a specific quantity of shares at a limit price, so that I can sell shares at a desired price point.
+As a user, I want to be able to view my transaction history, so that I can keep track of my buy and sell orders.
+
+
+
+Issues:
+
+Integration of SB and DMAT accounts for seamless transactions.
+Real-time stock market data to show current market prices.
+Handling of blocked amount for buy orders.
+Confirmation of buy and sell orders.
+Transfer of shares and funds between accounts.
+Calculation and deduction of commission for transactions.
+Secure authentication and authorization for user accounts.
+Handling of errors and exceptions during transactions.
+
+
+
+Milestones:
+
+Integration of SB and DMAT accounts.
+Display of real-time stock market data.
+Implement buy order functionality with blocked amount.
+Implement sell order functionality.
+Implement transaction history feature.
+Implement commission calculation and deduction.
+Implement secure authentication and authorization.
+Testing and debugging to ensure smooth functionality.
+Deployment and launch of the online share trading platform.

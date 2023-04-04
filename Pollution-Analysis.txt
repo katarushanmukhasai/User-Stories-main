@@ -1,0 +1,28 @@
+User Stories:
+
+As a user, I want to be able to search for a specific type of vehicle and see its pollution emission value.
+As a user, I want to be able to see the pollution emission values of all vehicles registered in my state.
+As a user, I want to be able to see the age of a vehicle and its remaining usage period.
+As a user, I want to be able to see the recommended service period for my vehicle to obtain a pollution certificate.
+As a government official, I want to be able to see the pollution emission values of all vehicles registered in each state.
+
+
+
+Issues:
+
+Identify all registered vehicles in each state and their emission values.
+Determine the recommended service period for each vehicle type to obtain a pollution certificate.
+Determine the age and remaining usage period of each vehicle.
+Implement a system to track and monitor pollution testing centers' recommendations for vehicle service.
+Implement a system to update and store data for recycled motors' exceptional pollution emission values and lifetime.
+
+
+
+
+Milestones:
+
+Complete the data collection and analysis for all registered vehicles in each state.
+Develop and implement a user interface for users to search for specific vehicle emission values and view all registered vehicles' emission values in their state.
+Implement a system to track recommended service periods for vehicles to obtain a pollution certificate.
+Develop and implement a system to track the age and remaining usage period of each vehicle.
+Implement a system to store data for recycled motors' exceptional pollution emission values and lifetime.

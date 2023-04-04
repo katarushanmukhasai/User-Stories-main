@@ -1,0 +1,31 @@
+User Stories:
+
+As a customer, I want to be able to register for an account to access all features of the online portal.
+As a customer, I want to be able to add funds to my online account to use for transactions.
+As a customer, I want to be able to browse and search for products by product ID, name, and image.
+As a customer, I want to be able to select and purchase a product using my online account funds or through online banking/credit card/debit card.
+As a customer, I want to be able to track the delivery status of my purchased product and return it if necessary.
+As a customer, I want to be able to recharge my mobile or DTH account by typing the mobile number, selecting the operator, and choosing from available plans.
+As an administrator, I want to be able to manage registered users, products, and transactions.
+
+
+
+Issues:
+
+Implement a registration system that captures and stores user information securely.
+Implement a payment gateway that allows customers to add funds to their online accounts and purchase products using online banking/credit card/debit card.
+Develop a product catalog system that allows customers to browse and search for products and displays related products.
+Implement a system that tracks and updates the delivery status of purchased products and allows for returns.
+Develop a system that allows customers to recharge their mobile or DTH accounts by selecting the operator and available plans.
+Implement a secure and reliable system for managing user accounts, transactions, and product inventory.
+
+
+
+Milestones:
+
+Develop and implement a user interface for registration and login.
+Develop and implement a payment gateway system for adding funds and making purchases.
+Develop and implement a product catalog system with search and related product functionality.
+Develop and implement a system for tracking and updating delivery status and processing returns.
+Develop and implement a system for recharging mobile and DTH accounts.
+Develop and implement a system for managing user accounts, transactions, and product inventory.
